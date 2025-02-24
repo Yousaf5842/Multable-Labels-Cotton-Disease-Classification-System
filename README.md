@@ -6,21 +6,16 @@ Proud to share my latest computer vision project for cotton crop disease detecti
 ✔️ Potassium Deficiency
 ✔️ Sooty Mold
 ✔️ Healthy
+✔️ Mealy Bug
+✔️ Jassis
+ predicting multiple aspects of a crop image:
 
-Crop Type
-Crop Disease
-Crop Severity
-Crop Age
-Crop Stage
-Disease Classes
-The dataset includes six classes:
-
-Potassium Deficiency
-Mealy Bug
-Whitefly
-Sooty Mold
-Jassid
-Healthy Images
+✔️ Disease Type (Whitefly, Potassium Deficiency, Sooty Mold, Healthy)
+✔️ Cotton Type
+✔️ Crop Age
+✔️ Growth Stage
+✔️ Disease Severity
+✔️ Disease Probability
 Summary
 This project was developed as part of my work in the company. Several CNN architectures were tested, but MobileNetV2 achieved the best results in terms of accuracy and classification performance.
 
