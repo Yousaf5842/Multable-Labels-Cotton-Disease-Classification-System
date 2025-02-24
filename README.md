@@ -1,6 +1,11 @@
 # Multable-Labels-Cotton-Disease-Classification-System
 Multi-Label Cotton Diseases Classification Using MobileNetV2
-This project focuses on multi-label classification of cotton crop diseases using a Convolutional Neural Network (CNN) based on the MobileNetV2 architecture. The model predicts five key attributes:
+Proud to share my latest computer vision project for cotton crop disease detection! 🌾 Using deep learning and real-world field data, this model accurately classifies four key disease classes:
+
+✔️ Whitefly
+✔️ Potassium Deficiency
+✔️ Sooty Mold
+✔️ Healthy
 
 Crop Type
 Crop Disease
